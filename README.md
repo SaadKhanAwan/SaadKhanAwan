@@ -1,52 +1,62 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">A Passionate Full-Stack Developer Specializing in Flutter</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B4D8&height=200&section=header&text=Hi%20I'm%20Saad%20👋&fontSize=70&animation=fadeIn" />
+  
+  <h3>🚀 Passionate Full-Stack Developer | Flutter Specialist</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=saad-awan11&label=Profile%20Views&color=00b4d8&style=flat" alt="Views" />
+  </p>
+</div>
 
-## About Me
-I'm a dedicated software developer pursuing a BS in Computer Science with expertise in mobile app development. Since beginning my Flutter journey in 2022, I've grown into a versatile developer capable of building robust, user-friendly applications from concept to deployment.
+---
 
-### Professional Journey
-- Currently working as a **Full-Stack Developer** at **TriTech Solutions** (April 2024 - Present)
-- Previously worked as a **Flutter Developer Intern** at **EncoderBytes** (October 2023 - March 2024)
-- Consistently delivering high-quality solutions while adapting to evolving tech requirements
+## 💫 About Me
+I am a dedicated **Software Developer** pursuing a BS in Computer Science. Since 2022, I’ve been crafting high-performance mobile experiences. I bridge the gap between complex backend logic and sleek, responsive user interfaces.
 
-### Technical Expertise
-- **Mobile Development:** Flutter, Dart, Kotlin
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **State Management:** MVVM, BLoC, Provider, GetX
-- **Infrastructure:** CI/CD pipelines, Firebase
-- **Databases:** SQLite, Firestore
-- **Design Tools:** Figma, Adobe XD
+* 🔭 **Current Role:** Full-Stack Developer at **TriTech Solutions**
+* 🌱 **Learning:** Advanced Microservices & Cloud Architecture
+* 💬 **Ask me about:** Flutter, BLoC/Provider, and Scalable Mobile Architecture
+* ⚡ **Fun Fact:** I prioritize clean architecture so much, I even refactor my grocery lists!
 
-I prioritize clean architecture, responsive UI/UX design, and efficient state management in all my projects. My experience ranges from developing consumer-facing apps to creating enterprise solutions that solve real-world problems.
+---
 
-### Learning & Growth
-I'm continuously expanding my technical horizon and exploring new tools to stay ahead in the ever-evolving tech landscape. My long-term goals include mastering full-stack development and joining a leading tech company.
+## 🛠️ Tech Stack & Tools
 
-- 💬 Ask me about **Flutter, Mobile App Architecture, or Full-Stack Development**
-- 📫 How to reach me: **isaadawan1122@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 📱 Mobile & Frontend
 <p align="left">
-<a href="https://www.linkedin.com/in/saad-awan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saad-awan11" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/saad-khan/pfbid0vhmfmfuk8cpryggxd9q7ntwjtzr9j4yieory475rkymfkasvzj9tsy7ycbvdmqxal/?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/saad-khan/pfbid0vhmfmfuk8cpryggxd9q7ntwjtzr9j4yieory475rkymfkasvzj9tsy7ycbvdmqxal/?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/hi.flutter?igshid=nzzlodbkywe4ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hi.flutter?igshid=nzzlodbkywe4ng==" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### ⚙️ Backend & Database
 <p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🎨 Design & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ---
-💬 *Thanks for visiting my profile — feel free to connect or reach out!*
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saad-awan11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-awan11&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/saad-awan11" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:isaadawan1122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a
